@@ -1,4 +1,4 @@
 > author: wangdonglin
 ---
-- 共有可访问图床
+- 公有可访问图床
 
